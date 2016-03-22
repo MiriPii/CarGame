@@ -1,6 +1,6 @@
 # C++ Programming - The Top Down Racing
 ###### Tracks made by Henrik
-###### CarP hysics by Tommi
+###### Car Physics by Tommi
 
 ### To run this game [SFML(2.0+)][] and [Box2D(2.1.2+)][] need to be installed on the computer.
 ###### It is assumed that SFML and Box2D is installed on the standard library location.
